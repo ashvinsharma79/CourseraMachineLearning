@@ -1,1 +1,1 @@
-# CourseraMachineLearning
+# CourseraMachineLearningExercises
